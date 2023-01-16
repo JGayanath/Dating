@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1041988521476",
+    "project_id": "dating-da278",
+    "storage_bucket": "dating-da278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041988521476:android:52913796756bd103d26f51",
+        "android_client_info": {
+          "package_name": "com.jgayanathdev.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041988521476-v9bq2brall5kjdl8ipqr581f6ap20pbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QYvNPs3vJsx_RLi3T_sgZMaJ0VBaZeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041988521476-v9bq2brall5kjdl8ipqr581f6ap20pbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041988521476-itkg7org53oebp7vrri1l9cfbsbis7jc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dating"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
